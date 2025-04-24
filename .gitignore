@@ -1,0 +1,4 @@
+# all csvs will be ignored by git
+*.csv 
+# everything inside the data folder will be ignored by git
+data\
